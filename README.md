@@ -1,3 +1,3 @@
 # Applications
 
-Some of my created websites 
+Some of my created web applications
